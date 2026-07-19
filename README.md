@@ -18,7 +18,6 @@
 | 프로젝트 | 소개 |
 | --- | --- |
 | [2026_DKU_OpenSourceSWBasic](https://github.com/cylee127/2026_DKU_OpenSourceSWBasic) | 오픈소스 SW 기초 학습 기록 |
-| [hello_github](https://github.com/cylee127/hello_github) | GitHub를 시작하며 만든 첫 기록 |
 
 ## 작업 방식
 
