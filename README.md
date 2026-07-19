@@ -18,6 +18,7 @@
 | 프로젝트 | 소개 |
 | --- | --- |
 | [2026_DKU_OpenSourceSWBasic](https://github.com/cylee127/2026_DKU_OpenSourceSWBasic) | 오픈소스 SW 기초 학습 기록 |
+| [calligraphy](https://github.com/cylee127/calligraphy) | 서예 사진을 분석해 전서·예서·해서·행서·초서 등 서체를 추정하는 AI 프로토타입 |
 
 ## 작업 방식
 
