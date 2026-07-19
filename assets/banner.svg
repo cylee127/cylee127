@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">cylee127 GitHub profile banner</title>
+  <desc id="desc">A dark blue banner with the words Build, Learn, Improve.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0b1c32"/>
+      <stop offset="1" stop-color="#102a46"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#7dd3fc" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1030" cy="80" r="250" fill="url(#glow)"/>
+  <circle cx="1040" cy="72" r="88" fill="#38bdf8" fill-opacity="0.12" filter="url(#softGlow)"/>
+
+  <g transform="translate(60 46)">
+    <circle cx="0" cy="0" r="6" fill="#fb7185"/>
+    <circle cx="22" cy="0" r="6" fill="#fbbf24"/>
+    <circle cx="44" cy="0" r="6" fill="#4ade80"/>
+  </g>
+
+  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="60" y="112" fill="#7dd3fc" font-size="17" font-weight="700" letter-spacing="4">GITHUB / CYLEE127</text>
+    <text x="60" y="196" fill="#f8fafc" font-size="54" font-weight="800" letter-spacing="1">BUILD · LEARN · IMPROVE</text>
+    <rect x="60" y="222" width="430" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="60" y="272" fill="#b8c8dc" font-size="22" font-weight="450">one thoughtful commit at a time</text>
+  </g>
+
+  <g transform="translate(940 122)" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.86">
+    <path d="M 54 0 L 4 58 L 54 116"/>
+    <path d="M 126 0 L 176 58 L 126 116"/>
+    <path d="M 105 -12 L 76 128"/>
+  </g>
+
+  <rect x="1.5" y="1.5" width="1197" height="357" rx="26.5" fill="none" stroke="#7dd3fc" stroke-opacity="0.18" stroke-width="3"/>
+</svg>
