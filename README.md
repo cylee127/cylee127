@@ -18,6 +18,7 @@ and build better results one step at a time.
 | Project | Description |
 | --- | --- |
 | [2026_DKU_OpenSourceSWBasic](https://github.com/cylee127/2026_DKU_OpenSourceSWBasic) | Open-source software fundamentals coursework and learning notes |
+| [dku-campus-route-app](https://github.com/OpenSourcesSW-10/dku-campus-route-app) | A team project for campus navigation and classroom information sharing at Dankook University's Jukjeon Campus |
 | [calligraphy](https://github.com/cylee127/calligraphy) | An AI prototype that analyzes calligraphy images and predicts styles such as seal, clerical, regular, running, and cursive script |
 
 ## How I work
